@@ -1,0 +1,6 @@
+{
+  "name": "Galactic-spinner",
+  "tagline": "",
+  "body": "#Galactic Spinner\r\nGalactic spinner is a game that was written in the graphically focused framework Processing. In this game the player controls a spaceship, this spaceship can only fly in a circular motion. It is up to the player to navigate the spaceship into the wormhole to increase their score. If a player hits a black hole the game will end, their score will be logged to the scoreboard.\r\n\r\n#Screenshots:\r\n![menu image](https://i.imgur.com/FyQ7UvJ.png)\r\n![game image](https://i.imgur.com/lug80oi.png)\r\n![menu image](https://i.imgur.com/FyQ7UvJ.png)\r\n![help dialog image](https://i.imgur.com/HgX8srT.png)\r\n![scoreboard image](https://i.imgur.com/NcJZlhe.png)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
