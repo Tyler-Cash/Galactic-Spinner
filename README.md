@@ -9,7 +9,7 @@ the IDE.
 Follow the onscreen prompts to play that appear after launching.
 
 #Screenshots:
-![menu image](https://zippy.gfycat.com/SleepyHairyArrowworm.webm)
+![menu image](https://i.imgur.com/FyQ7UvJ.png)
 ![game image](https://i.imgur.com/lug80oi.png)
 ![menu image](https://i.imgur.com/FyQ7UvJ.png)
 ![help dialog image](https://i.imgur.com/HgX8srT.png)
